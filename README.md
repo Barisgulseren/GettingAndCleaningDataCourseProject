@@ -3,10 +3,10 @@
 This project demonstrates how to collect, work with and clean a data set. The purpose is to prepare tidy data that can be usedfor later analysis.
 The R script, `run_analysis.R`, does the following:
 
-1. Create a data folder if it doe not exist 
+1. Create a data folder if it does not exist 
 2. Download the data set 
 3. Read test, train and features files 
-4. Merge thetraining and the test sets to create one data set 
+4. Merge the training and the test sets to create one data set 
 5. Set names to variables 
 6. Merge columns to get data frame 
 7. Extract only the measurements on the mean and standard deviation for each measurement 
